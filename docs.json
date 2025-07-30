@@ -89,7 +89,7 @@
     }
   },
   "logo": {
-    "light": "/logo/ruleinside_blue.png",
+    "light": "/logo/RuleInside-Logo.svg",
     "dark": "/logo/dark.svg"
   },
   "navbar": {
